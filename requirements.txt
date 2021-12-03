@@ -1,0 +1,8 @@
+1.To successfully run the program following libraries and imports should be installed on the machine
+ - latest Python version, AWS CLI, Boto3, Sagemaker, Textblob, Pyspark, Streamlit and Matplot lib, Scikit-learn and Seaborn libraries
+2. For successfully running the program, an existing Amazon account with S3 and Sagemaker should be present. 
+3. TO run the file execute - streamlit run Main.py
+
+Amazon CLI setup can be referred at - https://docs.aws.amazon.com/polly/latest/dg/setup-aws-cli.html
+Amazon S3 and Sagemaker setup can be viwed at - https://aws.amazon.com/s3/getting-started/
+https://docs.aws.amazon.com/sagemaker/latest/dg/gs.html
